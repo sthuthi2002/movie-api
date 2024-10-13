@@ -1,0 +1,56 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# *.db
+# *.sqlite3
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Django-related
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+media/
+staticfiles/
+# *.sqlite3
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Coverage reports
+coverage.xml
+*.cover
+*.coverage
+.cache
+nosetests.xml
+coverage-html/
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Others
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+
+# Environment variables
+# .env
